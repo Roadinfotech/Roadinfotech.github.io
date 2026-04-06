@@ -1,0 +1,14 @@
+baseURL = 'https://Roadinfotech.github.io/'
+languageCode = 'ko-kr'
+title = 'Roadinfotech IT Infra & Security'
+theme = 'PaperMod'
+
+defaultContentLanguage = "ko"
+
+[languages]
+  [languages.ko]
+    languageName = "한국어"
+    weight = 1
+  [languages.en]
+    languageName = "English"
+    weight = 2
